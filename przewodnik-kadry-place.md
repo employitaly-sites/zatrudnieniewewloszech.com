@@ -1,0 +1,10 @@
+# Zatrudnienie i płace we Włoszech
+
+> Przewodnik dla polskich firm po zatrudnieniu i płacach we Włoszech: kalendarz płac, składniki wynagrodzenia, umowy i urlopy, outsourcing.
+
+
+<section> <span class="eyebrow"><a href="przewodnik-kadry-place.html">Przewodnik</a></span> <h1 id="zatrudnienie-i-place-we-wloszech-dla-polskich-firm">Zatrudnienie i płace we Włoszech, wyjaśnione dla polskich firm</h1> <p class="lede">Pięć krótkich rozdziałów i jedno porównanie z polskim Kodeksem pracy: co trzeba wiedzieć przed zatrudnieniem pierwszego pracownika we Włoszech.</p> </section> <section class="grid"> <a class="panel" href="eor-czy-spolka-wlochy.html"><h3 id="eor-spolka-czy-b2b">EOR, spółka czy B2B?</h3><p>Trzy sposoby na pracę ludzi dla Ciebie we Włoszech i kiedy który ma sens.</p></a> <a class="panel" href="kalendarz-plac-wlochy.html"><h3 id="kalendarz-plac-i-deklaracji">Kalendarz płac i deklaracji</h3><p>Miesięczne zamknięcie, wypłata, F24 do 16. dnia, UniEmens, LUL, Certificazione Unica.</p></a> <a class="panel" href="skladniki-wynagrodzenia-wlochy.html"><h3 id="z-czego-sklada-sie-wloska-pensja">Z czego składa się włoska pensja</h3><p>RAL, 13. i 14. pensja, dodatki, świadczenia rzeczowe, składki i podatki.</p></a> <a class="panel" href="umowy-o-prace-wlochy.html"><h3 id="umowy-urlopy-i-wypowiedzenia">Umowy, urlopy i wypowiedzenia</h3><p>CCNL, warunki umowy, urlop wypoczynkowy, choroba, urlopy rodzicielskie, wypowiedzenie i TFR.</p></a> <a class="panel" href="outsourcing-plac-wlochy.html"><h3 id="outsourcing-plac">Outsourcing płac</h3><p>Co robi dostawca, typowe błędy, raportowanie do centrali, pytania do zadania.</p></a> <a class="panel" href="wlochy-vs-polska.html"><h3 id="wlochy-a-polska">Włochy a Polska</h3><p>Kodeks pracy kontra CCNL: wypowiedzenie, urlop, ZUS i INPS, odprawa i TFR.</p></a> </section> <div class="cta"><a class="btn" href="kalkulator-kosztow.html">Policz koszt zatrudnienia</a><a class="btn ghost" href="kontakt.html">Poproś o wycenę</a></div>
+
+
+---
+Source: https://zatrudnieniewewloszech.com/przewodnik-kadry-place.html
